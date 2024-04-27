@@ -1,23 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+A demonstration of my skills in Python for the purposes of proving that I have a basic understanding of the Python programming language. By starting from what I know, I hope to create a foundation to then learn how to replicate this in other programming languages.
 
-{Provide a description of your software}
+This is a Hello World script written in Python.
 
-{Describe your purpose for creating this software.}
+This script prints the message "Hello World!" to the user.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here is the walkthrough:
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code is used in the creation of this script.
 
-{Describe the programming language that you used}
+The programming language used is Python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3Schools](https://www.w3schools.com/python/default.asp)
+* [Learnpython.org](https://www.learnpython.org/en/Hello,_World!)
