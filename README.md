@@ -7,7 +7,8 @@ This is a Hello World script written in Python.
 This script prints the message "Hello World!" to the user.
 
 Here is the walkthrough for the script:
-["Hello World" Python Demo Video]([http://youtube.link.goes.here](https://youtu.be/5c2N1HRWWR4))
+
+["Hello World" Python Demo Video](https://youtu.be/5c2N1HRWWR4)
 
 # Development Environment
 
